@@ -1,2 +1,4 @@
 # gtd
-world map
+
+a project about world map
+use echarts
