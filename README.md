@@ -1,5 +1,5 @@
 # gtd
 
-a project about world map
+a project for world map
 
 use echarts
